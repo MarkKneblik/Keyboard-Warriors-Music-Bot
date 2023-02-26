@@ -3,7 +3,7 @@ from discord.ext import commands # for text commands
 
 import nacl # for connecting to voice channels
 
-TOKEN = 'MTA3NjU4NDAxMzU2MjY1MDY3NA.GuQDku.rK3aEH5AXBeHXV7-s43yIJ3Q0pgM62kxq70vys'
+TOKEN = ''
 
 intents = discord.Intents.default()
 intents.message_content = True
